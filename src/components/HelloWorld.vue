@@ -1,6 +1,5 @@
 <template>
   <div>
-    <div>Hello Worlds</div>
     <div>{{count}}</div>
     <button @click="setTime">开始计时</button>
     <button @click="closeTime">停止计时</button><br><br><br>
